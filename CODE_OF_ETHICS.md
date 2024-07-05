@@ -51,4 +51,4 @@ This code governs all correspondence within [canonical project spaces](profile/R
 
 Contributing implies fundamental agreement with this Code of Ethics.
 
-Any actions that compromise it, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential [remediation](./docs/remediation.md).
+Any actions that compromise it, including prioritizing orthogonal agendas or engaging in divisive conduct, will be subject to review and potential remediation.
