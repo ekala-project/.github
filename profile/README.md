@@ -25,4 +25,4 @@ We invite all contributors and users to review and adhere to our [Code of Ethics
 
 ## Get Involved
 
-- [Join our community](https://chat.ekala.org)
+- [Chat](https://chat.ekala.org)
