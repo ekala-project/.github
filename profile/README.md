@@ -2,16 +2,22 @@
 
 ## Our Mission
 
-Transform Nix into a modular, API-driven build system to enable scalable and extensible software deployment.
+To revolutionize store-based systems by creating a modern, user-friendly platform that combines innovative build scheduling, maintainable package management, and intelligent automation.
 
 We will:
 
-1. Implement a versioned, high-performance, and language-agnostic API
-2. Create extensible client tools and libraries
-3. Optimize caching and evaluation for large-scale environments
-4. Make use of these tools and our philosophy to build a much more maintainable package set
+1. Pioneer the Atom format for reproducible, verifiable, and efficiently transferable package definitions
+2. Develop a powerful, API-driven build scheduler that optimizes evaluation and caching
+3. Create an intuitive CLI that makes store-based systems accessible and productive
+4. Establish patterns and tools for maintaining large package sets through automation and static analysis
+5. Build a modular ecosystem that enables seamless extension and adaptation
 
-Our efforts will preserve Nix's reproducibility while dramatically improving its maintainability and adaptability to diverse and evolving infrastructure needs.
+Our efforts preserve Nix's core strengths in reproducibility while dramatically improving:
+
+- Developer experience through better tooling and APIs
+- Package maintenance through automation and static guarantees
+- System scalability through optimized scheduling and caching
+- Code reuse through the Atom format and modular designs of ekapkgs
 
 ## Key Projects
 
