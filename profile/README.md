@@ -32,7 +32,7 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 ## Project Ethic
 
 We are committed to ethical practices and enabling a productive project environment.
-We invite all contributors and users to review and adhere to our [Code of Ethics](../CODE_OF_ETHICS.md).
+We invite all contributors and users to review and adhere to our [Code of Ethics](https://github.com/ekala-project/.github/tree/master?tab=coc-ov-file).
 
 ## Get Involved
 
