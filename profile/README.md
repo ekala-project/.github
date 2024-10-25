@@ -5,18 +5,18 @@
 Transform Nix into a modular, API-driven build system to enable scalable and extensible software deployment.
 
 We will:
-1. Refactor Nix's monolithic architecture into discrete, interoperable components
-2. Implement a versioned, high-performance, and language-agnostic API
-3. Develop a daemon-based core for distributed operations
-4. Create extensible client tools and libraries
-5. Optimize caching and evaluation for large-scale environments
+
+1. Implement a versioned, high-performance, and language-agnostic API
+2. Create extensible client tools and libraries
+3. Optimize caching and evaluation for large-scale environments
+4. Make use of these tools and our philosophy to build a much more maintainable package set
 
 Our efforts will preserve Nix's reproducibility while dramatically improving its maintainability and adaptability to diverse and evolving infrastructure needs.
 
 ## Key Projects
 
-- [eos](https://github.com/ekala-project/eos): The daemon
-- eka: The CLI
+- [eos](https://github.com/ekala-project/eos): The build scheduler & gateway API binary
+- [eka](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
 
 ## Project Ethic
 
@@ -25,4 +25,4 @@ We invite all contributors and users to review and adhere to our [Code of Ethics
 
 ## Get Involved
 
-- [Chat](https://chat.ekala.org)
+- [Chat](https://discord.gg/JG6zmPTutq)
