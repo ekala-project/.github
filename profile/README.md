@@ -21,13 +21,17 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 
 ## Key Projects
 
-- [eos](https://github.com/ekala-project/eos): The build scheduler & gateway API binary
-- [eka](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
-- [atom](https://github.com/ekala-project/eka): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
-- [EEP](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
-- [corepkgs](https://github.com/ekala-project/corepkgs): a minimal core of well maintain code, useful for maintaining a larger package set
-- [stdenv](https://github.com/ekala-project/stdenv): the standard environment for Nix builds, abstracted to its own repository
-- [ekapkgs roadmap](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
+- [**eos**](https://github.com/ekala-project/eos): The evaluation & build scheduler gateway API binary
+  - status: conceptual
+- [**eka**](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
+  - status: WIP private pre-alpha
+- [**atom**](https://github.com/ekala-project/eka): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
+  - status: WIP private beta
+- [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
+  - status: open for submissions
+- [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintain code, useful for maintaining a larger package set
+- [**stdenv**](https://github.com/ekala-project/stdenv): the standard environment for Nix builds, abstracted to its own repository
+- [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
 
 ## Project Ethic
 
