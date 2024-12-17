@@ -26,7 +26,7 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 - [**eka**](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
   - status: WIP private pre-alpha
   - license: GPLv3 with amendments
-- [**atom**](https://github.com/ekala-project/eka): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
+- [**atom**](https://github.com/ekala-project/atom): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
   - status: WIP private beta
   - license: MPL
 - [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
