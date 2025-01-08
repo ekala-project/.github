@@ -42,4 +42,4 @@ We invite all contributors and users to review and adhere to our [Code of Ethics
 
 ## Get Involved
 
-- [Chat (Discord)](https://discord.gg/JG6zmPTutq)
+- [Chat (Discord)](https://discord.gg/DgC9Snxmg7)
