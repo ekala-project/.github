@@ -1,4 +1,7 @@
+
 # Project Ekala
+
+[![Liberapay](https://img.shields.io/liberapay/goal/Ekala.svg?logo=liberapay)](https://liberapay.com/Ekala) [![Discord](https://img.shields.io/discord/1257327654047187024?label=Discord&logo=discord&logoColor=white)](https://discord.gg/DgC9Snxmg7)
 
 ## Our Mission
 
@@ -18,6 +21,8 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 - Package maintenance through automation and static guarantees
 - System scalability through optimized scheduling and caching
 - Code reuse through the Atom format and modular designs of ekapkgs
+
+<noscript><a href="https://liberapay.com/Ekala/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Key Projects
 
