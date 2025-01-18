@@ -1,7 +1,7 @@
 
 # Project Ekala
 
-[![Liberapay](https://img.shields.io/liberapay/goal/Ekala.svg?logo=liberapay)](https://liberapay.com/Ekala) [![Discord](https://img.shields.io/discord/1257327654047187024?label=Discord&logo=discord&logoColor=white)](https://discord.gg/DgC9Snxmg7)
+[![Discord](https://img.shields.io/discord/1257327654047187024?label=Discord&logo=discord&logoColor=white)](https://discord.gg/DgC9Snxmg7)
 
 ## Our Mission
 
