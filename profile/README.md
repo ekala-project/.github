@@ -36,6 +36,7 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
   - license: MPL
 - [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
   - status: open for submissions
+- [**eka-ci**](https://github.com/ekala-project/eka-ci): A CI/CD tool attempting to make large Nix package curation sustainable
 - [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintain code, useful for maintaining a larger package set
 - [**stdenv**](https://github.com/ekala-project/stdenv): the standard environment for Nix builds, abstracted to its own repository
 - [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
