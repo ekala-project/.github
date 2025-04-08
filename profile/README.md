@@ -37,9 +37,13 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 - [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
   - status: open for submissions
 - [**eka-ci**](https://github.com/ekala-project/eka-ci): A CI/CD tool attempting to make large Nix package curation sustainable
-- [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintain code, useful for maintaining a larger package set
-- [**stdenv**](https://github.com/ekala-project/stdenv): the standard environment for Nix builds, abstracted to its own repository
-- [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
+- **ekakpgs**: A hard poly-repo fork of nixpkgs.
+  - [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
+  - [**nix-lib**](https://github.com/ekala-project/nix-lib): A hard fork of `nixpkgs/lib` code base. Contains addtional utilities for Ekapkgs.
+  - [**stdenv**](https://github.com/ekala-project/stdenv): **(DEPRECATED)** the standard environment for Nix builds, abstracted to its own repository
+  - [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintained code, useful for maintaining a larger package set
+  - **Language and Ecosystem Overlays**: Overlays downstream of corepkgs. These are separately maintained and curated.
+  - **ekapkgs**: Overlay which re-combines nix-lib, corepkgs, language and ecosystem overlays into a single entrypoint. Similar to nixpkgs.
 
 ## Project Ethic
 
