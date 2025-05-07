@@ -37,7 +37,7 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 - [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
   - status: open for submissions
 - [**eka-ci**](https://github.com/ekala-project/eka-ci): A CI/CD tool attempting to make large Nix package curation sustainable
-- **ekakpgs**: A hard poly-repo fork of nixpkgs.
+- **ekapkgs**: A hard poly-repo fork of nixpkgs.
   - [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
   - [**nix-lib**](https://github.com/ekala-project/nix-lib): A hard fork of `nixpkgs/lib` code base. Contains addtional utilities for Ekapkgs.
   - [**stdenv**](https://github.com/ekala-project/stdenv): **(DEPRECATED)** the standard environment for Nix builds, abstracted to its own repository
