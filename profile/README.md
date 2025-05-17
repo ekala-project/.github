@@ -26,16 +26,6 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
 
 ## Key Projects
 
-- [**eos**](https://github.com/ekala-project/eos): The evaluation & build scheduler gateway API binary
-  - status: conceptual
-- [**eka**](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
-  - status: WIP private pre-alpha
-  - license: GPLv3 with amendments
-- [**atom**](https://github.com/ekala-project/atom): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
-  - status: WIP private beta
-  - license: MPL
-- [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
-  - status: open for submissions
 - [**eka-ci**](https://github.com/ekala-project/eka-ci): A CI/CD tool attempting to make large Nix package curation sustainable
 - **ekapkgs**: A hard poly-repo fork of nixpkgs.
   - [**ekapkgs roadmap**](https://github.com/ekala-project/ekapkgs-roadmap): A road-map listing out the milestones and goals to get to our ultimate goal
@@ -44,6 +34,17 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
   - [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintained code, useful for maintaining a larger package set
   - **Language and Ecosystem Overlays**: Overlays downstream of corepkgs. These are separately maintained and curated.
   - **ekapkgs**: Overlay which re-combines nix-lib, corepkgs, language and ecosystem overlays into a single entrypoint. Similar to nixpkgs.
+- [**eka**](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
+  - status: WIP private pre-alpha
+  - license: GPLv3 with amendments
+- [**atom**](https://github.com/ekala-project/atom): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
+  - status: WIP private beta
+  - license: MPL
+- [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
+  - status: open for submissions
+- [**eos**](https://github.com/ekala-project/eos): The evaluation & build scheduler gateway API binary
+  - status: conceptual
+
 
 ## Project Ethic
 
