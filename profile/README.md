@@ -9,18 +9,15 @@ To revolutionize store-based systems by creating a modern, user-friendly platfor
 
 We will:
 
-1. Pioneer the Atom format for reproducible, verifiable, and efficiently transferable package definitions
-2. Develop a powerful, API-driven build scheduler that optimizes evaluation and caching
-3. Create an intuitive CLI that makes store-based systems accessible and productive
-4. Establish patterns and tools for maintaining large package sets through automation and static analysis
-5. Build a modular ecosystem that enables seamless extension and adaptation
+1. Create an intuitive CLI that makes store-based systems accessible and productive
+2. Establish patterns and tools for maintaining large package sets through automation and static analysis
+3. Build a modular ecosystem that enables seamless extension and adaptation
 
 Our efforts preserve Nix's core strengths in reproducibility while dramatically improving:
 
 - Developer experience through better tooling and APIs
 - Package maintenance through automation and static guarantees
 - System scalability through optimized scheduling and caching
-- Code reuse through the Atom format and modular designs of ekapkgs
 
 <noscript><a href="https://liberapay.com/Ekala/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
@@ -34,16 +31,8 @@ Our efforts preserve Nix's core strengths in reproducibility while dramatically 
   - [**corepkgs**](https://github.com/ekala-project/corepkgs): a minimal core of well maintained code, useful for maintaining a larger package set
   - **Language and Ecosystem Overlays**: Overlays downstream of corepkgs. These are separately maintained and curated.
   - **ekapkgs**: Overlay which re-combines nix-lib, corepkgs, language and ecosystem overlays into a single entrypoint. Similar to nixpkgs.
-- [**eka**](https://github.com/ekala-project/eka): The CLI, defining the core logic for the Atom format, and offering a truly high-level interface into the store based world of Nix like tools.
-  - status: WIP private pre-alpha
-  - license: GPLv3 with amendments
-- [**atom**](https://github.com/ekala-project/atom): The novel Nix module system that enables bounded, sensible evaluation for Nix code.
-  - status: WIP private beta
-  - license: MPL
 - [**EEP**](https://github.com/ekala-project/eeps): Ekala Enhancement Proposals
   - status: open for submissions
-- [**eos**](https://github.com/ekala-project/eos): The evaluation & build scheduler gateway API binary
-  - status: conceptual
 
 
 ## Project Ethic
